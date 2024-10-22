@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { Mail, Globe, X, Instagram, Facebook, Twitter } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
-import { MirrorPhotosHomepageComponent } from "@/components/components-mirror-photos-homepage";
+import { MirrorPhotosHomepageComponent } from "@/components/components-mirror-photos-homepage"
 
 import {
   Dialog,
