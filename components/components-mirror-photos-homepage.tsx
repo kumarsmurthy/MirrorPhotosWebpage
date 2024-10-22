@@ -14,7 +14,6 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog"
 import Image from 'next/image'
-import Link from 'next/link'
 
 export default function Component() {
   const [email, setEmail] = useState('')
