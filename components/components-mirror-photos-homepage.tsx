@@ -146,9 +146,9 @@ export default function Component() {
             >
               <X className="h-8 w-8" />
             </button>
-            <h2 className="text-5xl font-bold mb-8 text-center text-pink-400">AI Art Bootcamp</h2>
+            <h2 className="text-5xl font-bold mb-8 text-center text-pink-400">AI Animation classes</h2>
             <div className="max-w-3xl mx-auto space-y-8 text-lg leading-relaxed">
-              <h3 className="text-3xl font-semibold text-pink-400">Preparing Our Children for the Intelligence Age</h3>
+              <h3 className="text-3xl font-semibold text-pink-400">Preparing ourselves for the Intelligence Age</h3>
               <p className="text-gray-300">
                 Are we ready for a future where superintelligent AI could emerge in the next few thousand days?
               </p>
@@ -159,9 +159,9 @@ export default function Component() {
               <p className="text-gray-300">
                 We've always adapted to new tools and programming languages, but the pace is now unprecedented. If you believe AI is just hype, consider this: animation projects that took me a weekend 10 years ago can now be accomplished in mere hours. The tools are evolving rapidly, and so must we.
               </p>
-              <h4 className="text-2xl font-semibold text-pink-400 mt-8">Teaching Our Kids to Adapt</h4>
+              <h4 className="text-2xl font-semibold text-pink-400 mt-8">Teaching to Adapt</h4>
               <p className="text-gray-300">
-                So, how can we prepare our children for a future dominated by AI?
+                So, how can we prepare ourselves for a future dominated by AI?
               </p>
               <h5 className="text-xl font-semibold text-pink-400 mt-6">Embrace Broad Skill Sets Over Early Specialization</h5>
               <p className="text-gray-300">
@@ -196,12 +196,12 @@ export default function Component() {
               </ul>
               <h4 className="text-2xl font-semibold text-pink-400 mt-8">Interested in Empowering the Next Generation?</h4>
               <p className="text-gray-300">
-                If you're passionate about preparing children for the future or want to help us reach more kids:
+                If you're passionate about Learning AI animation:
               </p>
               <div className="mt-4">
                 <Button asChild variant="secondary">
                   <a href="https://forms.gle/UnWUjobbTe5y4wCM7" target="_blank" rel="noopener noreferrer">
-                    👉 Fill Out This Form to Sign Up or Sponsor Our Events
+                    👉 Fill Out This Form to Sign Up
                   </a>
                 </Button>
               </div>
