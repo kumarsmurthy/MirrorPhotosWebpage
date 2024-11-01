@@ -122,7 +122,7 @@ export default function Component() {
               <h3 className="text-3xl font-semibold text-pink-400 mt-12">Our Expertise</h3>
               <ul className="list-disc pl-5 space-y-4 text-gray-300">
                 <li>Providing state-of-the-art services in Advertisement and Promotions, leveraging AI to create impactful campaigns for businesses.</li>
-                <li>Educating the next generation in the field of AI, preparing kids for a future where artificial intelligence plays a crucial role.</li>
+                <li>Educating the next generation in the field of AI, preparing students for a future where artificial intelligence plays a crucial role.</li>
                 <li>Developing intuitive web applications for fitness tracking, helping individuals achieve their health and wellness goals.</li>
               </ul>
               <p className="text-gray-300">
