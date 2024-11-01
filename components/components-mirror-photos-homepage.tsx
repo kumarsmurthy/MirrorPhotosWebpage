@@ -88,7 +88,7 @@ export default function Component() {
                           </div>
                           <div className="flex items-center">
                             <Mail className="h-6 w-6 text-pink-400 mr-2" />
-                            <span>Email us: <a href="mailto:mirror.photos@gmail.com" className="text-blue-400 hover:underline">mirror.photos@gmail.com</a></span>
+                            <span>Email us: <a href="mailto:hello@mirror.photos" className="text-blue-400 hover:underline">hello@mirror.photos</a></span>
                           </div>
                         </div>
                       </DialogDescription>
@@ -371,9 +371,9 @@ export default function Component() {
                 className="w-full h-48 object-cover"
               />
               <div className="p-4">
-                <h3 className="text-xl font-semibold mb-2">AI Art Bootcamp</h3>
+                <h3 className="text-xl font-semibold mb-2">AI Animation classes</h3>
                 <p className="text-gray-300 mb-4">
-                  AI Bootcamp designed for kids aged 9-15 that teaches storytelling using Generative AI models like Text to Image, Text to Video. We have successfully conducted 2 Bootcamps. Please contact us if you are interested to schedule a bootcamp. Check out the amazing videos created by our students!
+                  AI animation classes that teaches storytelling using Generative AI models like Text to Image, Text to Video. We have successfully conducted 2 sessions. Please contact us if you are interested to join the classes, Check out the amazing videos created by our students!
                 </p>
                 <div className="flex space-x-2">
                   <Button variant="secondary" onClick={() => setShowAIArtBootcamp(true)}>
