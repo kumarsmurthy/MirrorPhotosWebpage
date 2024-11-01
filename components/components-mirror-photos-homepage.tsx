@@ -200,7 +200,7 @@ export default function Component() {
               </p>
               <div className="mt-4">
                 <Button asChild variant="secondary">
-                  <a href="https://forms.gle/your-google-form-link" target="_blank" rel="noopener noreferrer">
+                  <a href="https://forms.gle/UnWUjobbTe5y4wCM7" target="_blank" rel="noopener noreferrer">
                     👉 Fill Out This Form to Sign Up or Sponsor Our Events
                   </a>
                 </Button>
